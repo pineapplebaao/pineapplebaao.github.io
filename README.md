@@ -1,11 +1,14 @@
 ---
 title: "About"
+
+Hello. I'm Sharmane
+MRes Biomedical Research graduate interested in translational medicine. My recent work focuses on high-throughput drug screening of small molecule compounds used to treat HFrEF Hypertrophic cardiomyopathy. 
+
 permalink: "/about/"
 layout: page
 
 
-Hello. I'm Sharmane
-MRes Biomedical Research graduate interested in translational medicine. My recent work focuses on high-throughput drug screening of small molecule compounds used to treat HFrEF Hypertrophic cardiomyopathy. 
+
 
 ---
 
