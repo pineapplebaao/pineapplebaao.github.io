@@ -12,24 +12,18 @@ layout: page
 
 ---
 
-## Installation
+## Cardiovascular project
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Development of high-throughput assay for small molecules acting on cardiomyocyte contraction
 
-## Features
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Microbiology project
 
-## Based on
+ 
+ MRes project 2 (Prof Angelika Grundling - Thesis project) ![Uploading image.png…]()
+
+## MRes project 2 (Prof Angelika Grundling - Thesis project) ![Uploading image.png…]()
+
 
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
